@@ -6,8 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehhagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="snehhagarwal" /> </p>
 
 - 🙋‍♀️ I'm a **Computer Science Student at GLA University**
-- 🌱 I’m currently learning **C language**
-- ⚡Planning to get into **Web Development**
+- 🌱 I’m currently learning **Web Development**
 - 📫 How to reach me **snehaag1104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
